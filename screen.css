@@ -10,8 +10,8 @@ header {
 }
 
 nav {
-    position: relative;
-    left: 649
+    position: fixed;;
+    left: 649px;
 }
 
 nav a {
