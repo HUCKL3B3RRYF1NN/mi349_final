@@ -10,13 +10,15 @@ header {
 }
 
 nav {
-
+    position: relative;
+    left: 649
 }
 
 nav a {
     font-weight: bold;
     text-decoration: none;
     color: #1A1A1A;
+    margin-right: 79px;
 }
 
 nav a.active {
