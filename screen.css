@@ -10,7 +10,7 @@ header {
 }
 
 nav {
-    position: fixed;;
+    position: relative;
     left: 649px;
 }
 
