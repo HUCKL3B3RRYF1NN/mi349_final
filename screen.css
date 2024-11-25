@@ -23,14 +23,20 @@ nav a.active {
     text-decoration: underline;
 }
 
+.nav-left {
+    position: fixed;
+    top: 35px;
+    left: 70px;
+}
+
 main {
 
 }
 
 .home-text {
     position: fixed;
-    top: 138;
-    left: 70;
+    top: 138px;
+    left: 70px;
     margin-left: -5px;
 }
 
