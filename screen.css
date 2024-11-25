@@ -1,4 +1,40 @@
-/* Add screen styles below */
-a.active {
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: #F2F2F2;
+    color: #1A1A1A;
+}
+
+header {
+
+}
+
+nav {
+
+}
+
+nav a {
     font-weight: bold;
+    text-decoration: normal;
+}
+
+nav a.active {
+    text-decoration: underline;
+}
+
+main {
+
+}
+
+h1 {
+    font-size: 96px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 34px;
+    font-weight: normal;
+}
+
+p {
+    font-size: 16px;
 }
