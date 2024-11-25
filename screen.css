@@ -40,6 +40,15 @@ nav a.active {
     height: 18px;
 }
 
+img {
+    position: fixed;
+    top: 163px;
+    left: 70px;
+    margin-left: -5px;
+    width: 405px;
+    height: 514px;
+}
+
 main {
 
 }
