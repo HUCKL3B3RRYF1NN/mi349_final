@@ -34,6 +34,11 @@ nav a.active {
     margin: 35px 70px;
 }
 
+.nav-left img {
+    width: 31px;
+    height: 18px;
+}
+
 main {
 
 }
