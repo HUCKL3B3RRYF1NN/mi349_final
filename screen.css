@@ -27,6 +27,12 @@ main {
 
 }
 
+.home-text {
+    position: fixed;
+    top: 138;
+    left:0;
+}
+
 h1 {
     font-size: 79px;
     font-weight: bold;
