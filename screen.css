@@ -35,9 +35,10 @@ h1 {
 }
 
 h2 {
-    font-size: 37px;
+    font-size: 38px;
     font-weight: normal;
     margin-top: -10px;
+    margin-left: 2px;
 }
 
 p {
