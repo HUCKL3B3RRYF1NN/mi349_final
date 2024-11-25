@@ -28,7 +28,10 @@ nav a.active {
 }
 
 .nav-left {
-    float: left;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 35px 70px;
 }
 
 main {
