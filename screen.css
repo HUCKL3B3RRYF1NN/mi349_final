@@ -34,12 +34,6 @@ nav a.active {
     margin: 40px 70px;
 }
 
-.nav-left img {
-    color: #1A1A1A;
-    width: 31px;
-    height: 18px;
-}
-
 img {
     position: fixed;
     top: 163px;
@@ -47,6 +41,12 @@ img {
     margin-left: -5px;
     width: 405px;
     height: 514px;
+}
+
+.nav-left img {
+    color: #1A1A1A;
+    width: 31px;
+    height: 18px;
 }
 
 main {
