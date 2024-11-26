@@ -6,7 +6,6 @@ body {
 }
 
 header {
-    position: sticky;
     margin-bottom: 10px;
     display: inline-block;
 }
