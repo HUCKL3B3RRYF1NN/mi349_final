@@ -42,6 +42,17 @@ main img {
     height: 514px;
 }
 
+article {
+    position: fixed;
+    top: 163px;
+    left: 648px;
+    width: 562px;
+}
+
+article p {
+    font-size: 37px;
+}
+
 .nav-left img {
     color: #1A1A1A;
     width: 31px;
@@ -76,15 +87,4 @@ h2 {
 
 p {
     font-size: 16px;
-}
-
-article {
-    position: relative;
-    top: 155px;
-    left: 648px;
-    width: 562px;
-}
-
-article p {
-    font-size: 37px;
 }
