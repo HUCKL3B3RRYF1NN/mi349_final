@@ -41,13 +41,13 @@ main img {
     left: 70px;
     width: 405px;
     height: 514px;
-    vertical-align: top;
 }
 
 article {
     position: absolute;
     left: 656px;
     width: 563px;
+    vertical-align: top;
 }
 
 article p {
