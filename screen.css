@@ -38,7 +38,6 @@ main img {
     position: fixed;
     top: 163px;
     left: 70px;
-    margin-left: -5px;
     width: 405px;
     height: 514px;
 }
@@ -55,7 +54,7 @@ main {
 
 .home-text {
     position: fixed;
-    top: 138px;
+    top: 163px;
     left: 70px;
     margin-left: -5px;
 }
