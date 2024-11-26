@@ -11,8 +11,9 @@ header {
 }
 
 nav {
-    position: relative;
-    left: 649px;
+    position: absolute;
+    left: 656px;
+    top: 30px;
 }
 
 nav a {
@@ -60,7 +61,7 @@ article p {
 }
 
 main {
-
+    vertical-align: top;
 }
 
 .home-text {
