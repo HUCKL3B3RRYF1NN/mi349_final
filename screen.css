@@ -79,8 +79,8 @@ p {
 }
 
 article {
-    position: fixed;
-    top: 155px;
+    position: relative;
+    top: 163px;
     left: 648px;
     width: 562px;
 }
