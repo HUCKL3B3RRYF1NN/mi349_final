@@ -36,7 +36,7 @@ nav a.active {
 }
 
 main img {
-    position: fixed;
+    position: absolute;
     top: 163px;
     left: 70px;
     width: 405px;
@@ -65,7 +65,7 @@ main {
 }
 
 .home-text {
-    position: fixed;
+    position: absolute;
     top: 163px;
     left: 70px;
     margin-left: -5px;
@@ -76,7 +76,6 @@ h1 {
     font-weight: bold;
     margin-top: -10px;
     margin-bottom: 0;
-    
 }
 
 h2 {
