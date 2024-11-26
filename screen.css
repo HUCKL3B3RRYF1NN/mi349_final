@@ -41,6 +41,7 @@ main img {
     left: 70px;
     width: 405px;
     height: 514px;
+    vertical-align: top;
 }
 
 article {
