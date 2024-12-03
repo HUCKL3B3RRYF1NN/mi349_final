@@ -36,9 +36,6 @@ nav a.active {
 }
 
 main img {
-    position: absolute;
-    top: 163px;
-    left: 70px;
     width: 405px;
     height: 514px;
 }
@@ -47,7 +44,6 @@ article {
     position: absolute;
     left: 656px;
     width: 563px;
-    vertical-align: top;
 }
 
 article p {
@@ -61,14 +57,11 @@ article p {
 }
 
 main {
-    
+    display: flex;
 }
 
 .home-text {
-    position: absolute;
-    top: 163px;
-    left: 70px;
-    margin-left: -5px;
+
 }
 
 h1 {
