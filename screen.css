@@ -44,9 +44,9 @@ main img {
 }
 
 article {
-    margin-top: 50%;
     width: 1141px;
     height: 522px;
+    margin: 0px auto 0px auto;
 }
 
 article p {
