@@ -36,7 +36,7 @@ nav a.active {
 }
 
 main img {
-    vertical-align: text-top;
+    float: left;
     width: 405px;
     height: 514px;
 }
@@ -57,7 +57,7 @@ article p {
 }
 
 main {
-    display: flex;
+
 }
 
 .home-text {
