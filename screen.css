@@ -44,10 +44,7 @@ main img {
 }
 
 article {
-    position: absolute;
-    top: 163px;
-    left: 70px;
-    margin-left: -5px;
+    margin-top: 50%;
     width: 1141px;
     height: 522px;
 }
