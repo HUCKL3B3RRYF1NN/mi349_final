@@ -11,9 +11,8 @@ header {
 }
 
 nav {
-    position: fixed;
-    left: 656px;
-    top: 35px;
+    margin-left: 50%;
+    margin-top: 35px;
 }
 
 nav a {
