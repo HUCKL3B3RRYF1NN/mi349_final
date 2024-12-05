@@ -3,6 +3,7 @@ body {
     background-color: #F2F2F2;
     color: #1A1A1A;
     margin: 40px 70px;
+    width: 1142px;
 }
 
 header {
@@ -43,7 +44,7 @@ main img {
 }
 
 article {
-    width: 1141px;
+    width: 1142px;
     height: 522px;
 }
 
