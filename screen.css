@@ -10,7 +10,7 @@ header {
     margin-bottom: 10px;
 }
 
-.nav-left img{
+header img{
     vertical-align: middle;
 }
 
@@ -86,8 +86,4 @@ h2 {
 
 p {
     font-size: 16px;
-}
-
-.test {
-    margin: 0 auto;
 }
