@@ -85,6 +85,5 @@ p {
 }
 
 .test {
-    margin: 0;
-    margin-left: 50%;
+    margin: 0 auto;
 }
