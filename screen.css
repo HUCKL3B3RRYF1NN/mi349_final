@@ -64,9 +64,7 @@ article p {
 }
 
 .home-text {
-    position: absolute;
-    top: 163px;
-    left: 70px;
+    margin-top: 75px;
     margin-left: -5px;
 }
 
