@@ -36,6 +36,10 @@ a.active {
     text-decoration: underline;
 }
 
+main {
+    margin-top: 25px;
+}
+
 main img {
     float: left;
     width: 405px;
@@ -57,10 +61,6 @@ article p {
     color: #1A1A1A;
     width: 31px;
     height: 18px;
-}
-
-main {
-
 }
 
 .home-text {
