@@ -1,7 +1,7 @@
 body {
-    font-family: Helvetica, sans-serif;
-    background-color: #F2F2F2;
-    color: #1A1A1A;
+    font-family: Helvetica, sans-serif !important;
+    background-color: #F2F2F2 !important;
+    color: #1A1A1A !important;
     margin: 40px 70px;
     width: 1142px;
 }
@@ -29,10 +29,7 @@ nav a.active {
 }
 
 .nav-left {
-    position: absolute;
-    top: 0;
-    left: 0;
-    margin: 40px 70px;
+
 }
 
 main img {
@@ -71,19 +68,19 @@ main {
 }
 
 h1 {
-    font-size: 79px;
-    font-weight: bold;
+    font-size: 79px !important;
+    font-weight: bold !important;
     margin-top: -10px;
     margin-bottom: 0;
 }
 
 h2 {
-    font-size: 38px;
-    font-weight: normal;
+    font-size: 38px !important;
+    font-weight: normal !important;
     margin-top: -5px;
     margin-left: 2px;
 }
 
 p {
-    font-size: 16px;
+    font-size: 16px !important;
 }
