@@ -3,7 +3,7 @@ body {
     background-color: #F2F2F2;
     color: #1A1A1A;
     margin: 40px 70px;
-    width: 1142px;
+    width: 1141px;
 }
 
 header {
@@ -18,7 +18,7 @@ header img{
 
 ul {
     display: inline;
-    margin-left: 650px;
+    margin-left: 500px;
 }
 
 li {
