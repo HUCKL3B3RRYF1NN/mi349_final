@@ -104,4 +104,8 @@ h4 {
     a {
         color: #F2F2F2;
     }
+
+    header img {
+        filter: grayscale(10%)
+    }
 }
