@@ -106,6 +106,6 @@ h4 {
     }
 
     header img {
-        filter: grayscale(10%)
+        filter: brightness(200%);
     }
 }
