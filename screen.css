@@ -58,12 +58,6 @@ article p {
     margin-bottom: 40px;
 }
 
-.nav-left img {
-    color: #1A1A1A;
-    width: 31px;
-    height: 18px;
-}
-
 .home-text {
     margin-top: 77px;
     margin-left: -5px;
@@ -99,4 +93,11 @@ h4 {
     font-size: 26px;
     font-weight: normal;
     line-height: 40px;
+}
+
+@media screen and (min-width: 1080px) {
+    body {
+        background-color: #1A1A1A;
+        color: #F2F2F2;
+    }
 }
