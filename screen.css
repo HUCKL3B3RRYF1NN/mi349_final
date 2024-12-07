@@ -124,3 +124,22 @@ h4 {
         filter: brightness(950%);
     }
 }
+
+@media screen and (max-width: 480px) {
+    body {
+        background-color: #18453B;
+        color: #FFFFFF;
+    }
+
+    header {
+        background-color: #18453B;
+    }
+
+    a {
+        color: #FFFFFF;
+    }
+
+    header img {
+        filter: brightness(1000%);
+    }
+}
