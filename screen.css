@@ -10,6 +10,10 @@ header {
     margin-bottom: 10px;
     position: sticky;
     top: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+    margin: 0;
 }
 
 header img {
