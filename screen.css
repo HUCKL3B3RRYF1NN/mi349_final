@@ -9,7 +9,8 @@ header {
     margin-bottom: 10px;
 }
 
-header img{
+header img {
+    color: #F2F2F2;
     vertical-align: middle;
     width: 31px;
     height: 18px;
