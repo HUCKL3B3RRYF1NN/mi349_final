@@ -56,11 +56,11 @@ main img {
     margin-right: 246px;
 }
 
-article {
+.article {
     margin-right: 70px;
 }
 
-article p {
+.article p {
     font-size: 35px;
     margin-bottom: 40px;
 }
